@@ -7,23 +7,17 @@ Your Assignment
 ---------------
 Homework:
 
-* Add a juniors method in the same way we have a seniors method
-* output the following:
-
-```
-Seniors
- * James, Fred
- * Smith, Sarah
-
-Juniors
- * Gong, Jack
-```
+* Add a furlong to km method
+* 1 furlong = 0.201168 kilometers
 
 
 Show Notes
 -----------
 
-* [rvm](http://rvm.io/)
-* [rails installer](http://railsinstaller.org)
+Recomendations:
+
+ * If RSpec looks like to you, use it
+ * Otherwise, use Minitest
+ * Use what your team likes
 
 Copyright: Jesse Wolgamott, MIT License (See LICENSE)
