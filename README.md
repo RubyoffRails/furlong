@@ -16,7 +16,7 @@ Show Notes
 
 Recomendations:
 
- * If RSpec looks like to you, use it
+ * If RSpec looks like your brain works, use it
  * Otherwise, use Minitest
  * Use what your team likes
 
