@@ -16,7 +16,7 @@ Show Notes
 
 Recomendations:
 
- * If RSpec looks like to you, use it
+ * If RSpec looks good to you, use it
  * Otherwise, use Minitest
  * Use what your team likes
 
