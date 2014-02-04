@@ -15,6 +15,11 @@ class FurlongTest < MiniTest::Unit::TestCase
 		assert_in_delta 42.194, km, 0.01
 	end
 
+	def test_1_furlong
+		km=Furlong.new.furlong_to_kilometers(1)
+		assert_in_delta 0.201168, km, 0.000001
+	end
+
 end
 
 describe Furlong do
@@ -23,5 +28,5 @@ describe Furlong do
 	it "converts 1 mile to 1.60934 km" do
 		calculator.miles_to_kilometers(1).must_be_within_delta(1.60934, 0.001)
 	end
-	
+
 end
